@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+    background-color: aquamarine ;
+    text-align: center;
+    padding-top: 100px;
+}
+.login{
+    background-color: rgb(184, 148, 224);
+    padding: 30px;
+    width: 250px;
+    margin: auto;
+    border-radius: 10px;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+}
+button{
+    padding:10px 30px;
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
